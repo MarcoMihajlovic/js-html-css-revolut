@@ -93,8 +93,9 @@ li {
 
 .shadow {
     -webkit-box-shadow: 0px 7px 20px 5px rgba(0,0,0,0.73); 
-box-shadow: 0px 7px 20px 5px rgba(0,0,0,0.73);
+    box-shadow: 0px 7px 20px 5px rgba(0,0,0,0.73);
     position: absolute;
+    display: none;
 }
 
 .active {
@@ -103,37 +104,37 @@ box-shadow: 0px 7px 20px 5px rgba(0,0,0,0.73);
 
 #tariffazione {
     top: 50px;
-    display: none;
+    /* display: none; */
 }
 
 #conti {
     left: 113px;
     top: 50px;
-    display: none;
+    /* display: none; */
 }
 
 #prodotti {
     left: 183px;
     top: 50px;
-    display: none;
+    /* display: none; */
 }
 
 #aiuto {
     left: 353px;
     top: 50px;
-    display: none;
+    /* display: none; */
 }
 
 #lingua {
     left: 436px;
     top: 50px;
-    display: none;
+    /* display: none; */
 }
 
 #azienda {
     left: 260px;
     top: 50px;
-    display: none;
+    /* display: none; */
 }
 
 .new {
